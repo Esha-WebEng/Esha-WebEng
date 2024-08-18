@@ -1,6 +1,6 @@
 Hello, I’m Esha Akram
 
-I’m currently learning MERN Stack
+I’m currently doing Full Stack Development
 
 Email me at: eshawebengineer@gmail.com
 
